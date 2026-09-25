@@ -1,10 +1,10 @@
 # Sudar 隐私政策 / Privacy Policy
 
-生效日期 / Effective date: 2026-09-20
+生效日期 / Effective date: 2026-09-25
 
 ## 简体中文
 
-Sudar 是由 allonli 独立维护的 macOS 剪贴板管理器。本政策适用于 Sudar Mac 应用。
+Sudar 是一款基于 Maccy、由 allonli 独立维护的 macOS 剪贴板管理器。本隐私政策适用于 Sudar。
 
 ### 本地处理的数据
 
@@ -30,7 +30,7 @@ Sudar 不向开发者或第三方上传剪贴板内容、片段、偏好或使�
 
 ## English
 
-Sudar is a macOS clipboard manager independently maintained by allonli. This policy applies to the Sudar Mac app.
+Sudar is a macOS clipboard manager based on Maccy and independently maintained by allonli. This privacy policy applies to Sudar.
 
 ### Local data
 
